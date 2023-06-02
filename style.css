@@ -1,0 +1,85 @@
+html { background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+    
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 182px 60px 182px;
+    
+}
+.navegação-conteiner{
+    display: flex;
+    gap: 50px;
+}
+
+.navegação-interna> li {
+ font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+color: #ffffff;
+
+}
+
+.navegação-interna {
+display: flex;
+list-style: none;
+gap: 30px;
+}
+.navegação-externa {
+    display: flex;
+    gap: 20px;
+    padding: 10px;    
+}
+
+
+.letra{
+    color: #ffffff;
+}
+
+.teste123{
+    display: flex;
+}
+
+p {
+    color: white;
+    padding: 0px 000px 2px 177px;
+    margin: 00px 50px 50px 50px;
+    font-size: 58px;
+    line-height: 70px;
+    display: flex;
+    align-items: flex-end;
+    letter-spacing: -2px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.conteiner-1{
+    display: flex;
+    align-items: center;
+    padding: 200px 0px 0px 0px;
+}
+.foto{
+    position: absolute;
+    left: 71.01%;
+    right: 0%;
+    top: 5.43%;
+    bottom: -5.14%;
+    margin: 339px 219px 219px 0px;
+}
+.gradient-cor{
+  background-image: linear-gradient(43deg, #13B0F5 30%, #E70FAA 100% );
+  -webkit-background-clip: text;
+  color: transparent;
+    
+}
+.foto-2{
+    position: absolute;
+    left: 71.21%;
+    right: 0%;
+    top: 5.93%;
+    bottom: -5.14%;
+    margin: 339px 219px 219px 0px;
+    border-radius: 50%;
+}
