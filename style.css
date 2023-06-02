@@ -53,7 +53,7 @@ p {
     align-items: flex-end;
     letter-spacing: -2px;
     font-weight: 700;
-    line-height: 48px;
+    line-height: 48clpx;
 }
 .conteiner-1{
     display: flex;
